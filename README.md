@@ -32,11 +32,11 @@ The model utilizes a transformer-based architecture that captures long-range dep
 - Labeled using P2Rank predictions
 
 ## Requirements
-python>=3.8
-tensorflow>=2.8.0
-biopython>=1.79
-pandas>=1.3.0
-numpy>=1.20.0
-scikit-learn>=1.0.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
+- python>=3.8
+- tensorflow>=2.8.0
+- biopython>=1.79
+- pandas>=1.3.0
+- numpy>=1.20.0
+- scikit-learn>=1.0.0
+- matplotlib>=3.4.0
+- seaborn>=0.11.0
