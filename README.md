@@ -4,7 +4,7 @@ A lightweight transformer-based neural network for rapid protein-ligand binding 
 
 ## Overview
 
-This project implements knowledge distillation to transfer binding site prediction capabilities from P2Rank (a slower but accurate method) to an efficient transformer-based neural network. The resulting model achieves comparable accuracy to P2Rank with a 5× speedup, making it suitable for high-throughput protein structure analysis.
+This project implements knowledge distillation to transfer binding site prediction capabilities from P2Rank to an efficient transformer-based neural network. The resulting model achieves comparable accuracy to P2Rank with a 5× speedup, making it suitable for high-throughput protein structure analysis.
 
 ## Key Features
 
