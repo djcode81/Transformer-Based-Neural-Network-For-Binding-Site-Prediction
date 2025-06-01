@@ -1,6 +1,6 @@
 # Transformer-Based Protein Binding Site Prediction
 
-A lightweight transformer-based neural network for rapid protein-ligand binding site prediction through knowledge distillation from P2Rank.
+SeqBind is a lightweight transformer-based neural network for rapid protein-ligand binding site prediction through knowledge distillation from P2Rank.
 
 ## Overview
 
